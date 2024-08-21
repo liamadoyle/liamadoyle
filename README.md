@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am an enthusiastic researcher with over 10 years of experience in research design and qualitative/quantitative data analysis. I also have an extensive background and interest in psychology and criminology. As I near the completion of my Ph.D. in Psychology, I’m excited to have the opportunity my expertise in data analysis to tackle real-world challenges and contribute to innovative projects.
+I am an enthusiastic researcher with over 10 years of experience in research design and qualitative/quantitative data analysis. I also have an extensive background and interest in psychology and criminology. As I near the completion of my Ph.D. in Psychology, I’m excited to have the opportunity to use my expertise in data analysis to tackle real-world challenges and contribute to innovative projects.
 
 - 🔭 I’m continuously learning new skills and eager to leverage my expertise in dynamic and challenging environments.
 - 💻 Proficient in **SQL**, **R**, and **Python**. Currently advancing my knowledge in **Machine Learning with R** through DataCamp.
