@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Liam! 👋</h1>
 
 <p align="center">
-  <strong>A passionate researcher and aspiring data analyst</strong> <br />
+  <strong> Passionate researcher and data analyst</strong> <br />
   🎓 Ph.D. in Psychology | 💼 Open to new opportunities 
 </p>
 
