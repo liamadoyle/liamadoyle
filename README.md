@@ -20,7 +20,7 @@ I am an enthusiastic researcher with 7 years of experience in research design an
 ### My Skillset
 
 - **Programming Languages:** R, SQL, Python
-- **Tools & Technologies:** Git, SPSS, Excel, Jupyter Notebooks, PowerBI
+- **Tools & Technologies:** SPSS, Excel, Jupyter Notebooks, PowerBI
 - **Areas of Expertise:** Data Analysis, Research Design, Machine Learning, Psychometrics
 
 ### Connect with Me
