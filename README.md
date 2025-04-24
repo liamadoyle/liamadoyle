@@ -9,9 +9,9 @@
 
 ### About Me
 
-I am a researcher with a curious mind and 7 years of experience in research design and qualitative/quantitative data analysis. I have an extensive background and interest in psychology and criminology. I’m excited to have the opportunity to use my expertise in data analysis to tackle real-world challenges.
+7 years of experience in research design and qualitative/quantitative data analysis. Extensive background and interest in psychology and criminology. Always excited to chat about new ideas, techniques, and technologies!
 
-- 🔭 I’m always looking to learn new skills and further develop my abilities.
+- 🔭 I’m always looking to learn new skills and improve myself.
 - 💻 Proficient in **R**, **SQL**, and **Python**.
 - 📬 How to reach me: [Email](mailto:ld19rk@brocku.ca) | [LinkedIn](https://www.linkedin.com/in/liam-doyle-6b88a12a4/)
 - 🎮 Fun fact: I’m an avid chess player and a big fan of soccer and combat sports!
