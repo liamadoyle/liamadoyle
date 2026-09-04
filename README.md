@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong> Passionate researcher and data analyst</strong> <br />
-  🎓 Ph.D. in Psychology | 💼 Open to new opportunities 
+  🎓 Ph.D. in Psychology
 </p>
 
 ---
 
 ### About Me
 
-7 years of experience in research design and qualitative/quantitative data analysis. Extensive background and interest in psychology and criminology. Always excited to chat about new ideas, techniques, and technologies!
+8 years of experience in research design and qualitative/quantitative data analysis. Extensive background and interest in psychology and criminology. Always excited to chat about new ideas, techniques, and technologies!
 
 - 🔭 I’m always looking to learn new skills and improve myself.
 - 💻 Proficient in **R**, **SQL**, and **Python**.
